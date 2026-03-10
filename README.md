@@ -23,6 +23,8 @@ This website helps the business:
 • Improve online visibility  
 • Provide easy contact information  
 • Showcase services or products to customers  
+## Project Output
 
+![Website Output](output.png)
 ## Author
 Bindu
